@@ -1,0 +1,5 @@
+clean
+add color
+show
+hello
+clean shoes
